@@ -1,7 +1,6 @@
 package com.vignesh.springsecuritypg.controller;
 
 import org.springframework.http.ResponseEntity;
-import org.springframework.util.MimeType;
 import org.springframework.util.MimeTypeUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
